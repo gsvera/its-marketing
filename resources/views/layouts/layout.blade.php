@@ -34,16 +34,33 @@
                     <div>
                         <img class="img-logo-menu" src="/assets/logo.png"/>
                     </div>
-                    <div class="item-menu">Home</div>
-                    <div class="item-menu">About</div>
-                    <div class="item-menu">Services</div>
-                    <div class="item-menu">Contact</div>
-                    <div class="item-menu">Profile</div>
+                    <a href="/" class="item-menu">Inicio</a>
+                    <a href="/nosotros" class="item-menu">Nosotros</a>
+                    <div class="item-menu services-submenu">Servicios
+
+                        <div class="submenu">
+                            <a href="/marketing-digital">
+                                <div class="submenu-item">Marketing Digital</div>
+                            </a>
+                            <a href="/redes-sociales">
+                                <div class="submenu-item">Redes Sociales</div>
+                            </a>
+                            <a href="/publicidad-digital">
+                                <div class="submenu-item">Publicidad Digital</div>
+                            </a>
+                            <a href="/posicionamiento-seo">
+                                <div class="submenu-item">Posicionamiento SEO</div>
+                            </a>
+                            <a href="/diseño-y-desarrollo-de-paginas-web">
+                                <div class="submenu-item">Diseño y Desarrollo de Páginas Web</div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="item-menu">Casos de Éxito</div>
                 </div>
                 <div class="content-menu-items">
                     <div>
                         <i class="fa fa-comments main-color" style="font-size: 2.5em;" aria-hidden="true"></i>
-                        <!-- <i class="fa fa-comments" aria-hidden="true"></i> -->
                     </div>
                     <div class="item-menu">
                         Obten Consultoria
@@ -84,19 +101,19 @@
                     <h3 class="subtitle-footer">Servicios de Marketing Digital</h3>
                     <div class="divisor-subtitle-footer"></div>
                     <div class="my-10">
-                        <a class="link-footer" href="">Marketing Digital</a>
+                        <a class="link-footer" href="/marketing-digital">Marketing Digital</a>
                     </div>
                     <div class="my-10">
-                        <a class="link-footer" href="">Redes Sociales</a>
+                        <a class="link-footer" href="/redes-sociales">Redes Sociales</a>
                     </div>
                     <div class="my-10">
-                        <a class="link-footer" href="">Publicidad Digital</a>
+                        <a class="link-footer" href="/publicidad-digital">Publicidad Digital</a>
                     </div>
                     <div class="my-10">
-                        <a class="link-footer" href="">Posicionamiento SEO</a>
+                        <a class="link-footer" href="/posicionamiento-seo">Posicionamiento SEO</a>
                     </div>
                     <div class="my-10">
-                        <a class="link-footer" href="">Diseño y Desarrollo de Páginas Web</a>
+                        <a class="link-footer" href="/diseño-y-desarrollo-de-paginas-web">Diseño y Desarrollo de Páginas Web</a>
                     </div>
                 </div>
                 <div>

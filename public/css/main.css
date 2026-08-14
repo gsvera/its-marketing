@@ -1,10 +1,34 @@
 
 :root {
     --bg-color: #15222b;
+    --bg-banner: 21, 34, 43;
     --main-color: #f0a202;
     --secondary-color: #7C8286;
     --rgb-secondary: 124, 130, 134;
     --btn-color: #f0a202;
+}
+
+@font-face{
+    font-family: 'Outfit';
+    src: url(/assets/fonts/Outfit/Outfit-VariableFont_wght.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face{
+    font-family: 'Outfit-Mac';
+    src: url(/assets/fonts/mac/Outfit/._Outfit-VariableFont_wght.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+h1, h2, h3, h4, h5 {
+    font-family: Outfit, Outfit-Mac;
+}
+.h-100 {
+    height: 100%;
+}
+.d-flex {
+    display: flex;
 }
 .content-xy-center{
     display: flex;
@@ -15,8 +39,30 @@
     display: flex;
     justify-content: space-between;
 }
+.content-space-aroud {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.content-grid-three {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr) ;
+    gap: 20px;
+}
 .gap-10{
     gap: 10px;
+}
+.col-5 {
+    width: 50%;
+}
+.col-4 {
+    width: 40%;
+}
+.col-2 {
+    width: 20%;
+}
+.t-center {
+    text-align: center;
 }
 .tc-white{
     color: white;
@@ -36,11 +82,20 @@
 .tf-bold{
     font-weight: bold;
 }
+.fs-11 {
+    font-size: 1.1em;
+}
 .fs-12 {
     font-size: 1.2em;
 }
 .wd-90{
     width: 90%;
+}
+.wd-80 {
+    width: 80%;
+}
+.wd-60 {
+    width: 60%;
 }
 .wd-45{
     width: 45%;
@@ -56,9 +111,43 @@
     margin-top: 20px;
     margin-bottom: 20px;
 }
+.mt-4 {
+    margin-top: 40px;
+}
+.mb-1 {
+    margin-bottom: 10px;
+}
+.mb-2 {
+    margin-bottom: 20px;
+}
+.mb-5 {
+    margin-bottom: 50px;
+}
+.mx-auto {
+    margin-left: auto;
+    margin-right: auto;
+}
+.my-2 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.psr-2{
+    z-index: 2;
+    position: relative;
+}
+.space-100{
+    width: 100%;
+    height: 100px;
+}
 .title-banner {
     color:white;
     font-size: 3em;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.title-banner-section {
+    color:white;
+    font-size: 2.5em;
     font-weight: bold;
     margin-bottom: 10px;
 }
@@ -73,15 +162,15 @@
     margin-bottom: 20px;
     line-height: 1.2em;
 }
-.mt-4 {
-    margin-top: 40px;
+.subtitle-h3 {
+    font-size: 1.4em;
+    font-weight: 600;
+    line-height: 1.2em;
 }
-.mb-2 {
-    margin-bottom: 20px;
-}
-.my-2 {
-    margin-top: 20px;
-    margin-bottom: 20px;
+.subtitle-services{
+    font-size: 2em;
+    font-weight: 600;
+    text-align: center;
 }
 .menu{
     display: flex;
@@ -108,6 +197,32 @@
     font-weight: 500;
     font-size: 1.1em;   
     color: white;
+}
+.item-menu:hover{
+    color: var(--main-color);
+    cursor: pointer;
+}
+.submenu {
+    display: none;
+}
+.services-submenu{
+    position: relative;
+}
+.services-submenu:hover > .submenu{
+    width: 300px;
+    display: block;
+    position: absolute;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    z-index: 2000;
+}
+.submenu-item {
+    color: black;
+    margin-bottom: 20px;
+}
+.submenu-item:hover {
+    color: var(--main-color);
 }
 .main-color{
     color: var(--main-color);
@@ -175,6 +290,10 @@
 .circle-blob-content {
     top: -25px;
     left: -45px;
+}
+.circle-blob-service{
+    top: -40px;
+    left: 25px;
 }
 .main-banner{
     padding: 100px 0;
@@ -265,4 +384,205 @@
 }
 .link-footer:hover {
     color: var(--btn-color);
+}
+.content-body-dark{
+    background-color: var(--bg-color);
+    padding: 10px 50px;
+    height: 500px;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+}
+.content-card-absolute {
+    position: absolute;
+    top: -80px;
+    left: 0;
+    right: 0;
+}
+.content-cards {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+.card-white, .card-yellow, .card-dark{
+    border-radius: 10px;
+    padding: 20px;    
+    width: 320px;
+    display: flex;
+}
+.card-white{
+    background-color: white;
+    box-shadow: 0 0 6px -3px rgba(0, 0, 0, 0.3);
+}
+.card-yellow{
+    background-color: var(--main-color);
+}
+.card-dark{
+    background-color: var(--bg-color);
+}
+.card-title{
+    font-size: 1.3em;
+}
+.card-badge-yellow {
+    background-color: var(--main-color);
+}
+.card-badge-white {
+    background-color: white;
+}
+.card-badge-yellow, .card-badge-white{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 60px;
+    height: 60px;
+    margin-right: 20px;
+    border-radius: 5px;
+}
+.card-icon-white {
+    font-size: 2.2em !important;
+    color: white;
+}
+.card-icon-yellow {
+    font-size: 2.2em !important;
+    color: var(--main-color);
+}
+.banner-about{
+    background-image: url(/assets/about-banner.jpg);
+    background-position-y: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.shadow-content-banner{
+    width: 100%;
+    height: 500px;
+    padding-top: 120px;
+    background-color: rgba(var(--bg-banner), 0.8);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card-services{
+  padding: 50px;
+  background-color: #ffffff; /* Color de fondo inicial */  
+  border-radius: 10px;
+  overflow: hidden; /* Opcional: asegura que los bordes redondeados corten bien el fondo */
+  cursor: pointer;
+  transition: color 0.3s ease; /* Transición opcional para el texto */
+
+  background-image: linear-gradient(to top, var(--bg-color) 100%, transparent 0%);
+  background-repeat: no-repeat;
+  background-size: 100% 0%; /* Inicia con una altura de 0% (abajo) */
+  background-position: bottom; /* Se ancla en la parte inferior */
+  
+  transition: background-size 0.4s ease-in-out, color 0.4s ease-in-out;
+}
+.card-services:hover {
+  background-size: 100% 100%; /* El fondo crece hasta cubrir toda la altura (100%) */
+  color: #ffffff; /* Opcional: cambia el color del texto para que contraste */
+}
+.card-services-borde {
+    box-shadow: 0 0 6px -3px rgba(0, 0, 0, 0.6);
+}
+.icon-card{
+    width: 120px;
+    margin-bottom: 20px;
+}
+.icon-card-small {
+    width: 60px;
+    margin-bottom: 20px;
+}
+.title-card{
+    font-size: 1.7em;
+    margin-bottom: 20px;
+}
+.link-card {
+    color: var(--main-color);
+    font-weight: 600;
+}
+.icon-count{
+    color: var(--main-color);
+    font-size: 3em !important;
+}
+.number-count{
+    color: white;
+    font-weight: bold;
+    font-size: 2.5em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.symbol-count{
+    color: var(--main-color);
+    font-size: 0.6em;
+    font-weight: bold;
+    margin-left: 10px;
+}
+.background-about {
+    background-image: url(/assets/about.jpg);
+    position: relative;
+    top: -50px;
+    left: 0;
+    width: 50%;
+    /* TODO: PARA LAP ESTA BIEN, PERO PARA PANTALLAS MAS GRANDES DEBE SER MENOR */
+    height: 800px;
+    z-index: 2;
+    border-radius: 0 10px 10px 0;
+}
+.col-dark{
+    width: 60%;
+    background-color: var(--bg-color);
+    /* TODO: Para vista de lap esta bien, pero para pantallas grandes debe ser mas */
+    padding: 100px 100px 100px 250px;
+    position: absolute;
+    right: 0;
+    z-index: 1;
+}
+/* Círculo de progreso */
+.circular-progress {
+  position: relative;
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  margin-bottom: 20px;
+  
+  /* Gradiente cónico: Creamos una ilusión de borde usando un círculo interno enmascarado */
+  background: conic-gradient(
+    var(--main-color) calc(var(--percentage) * 1% - 8%), /* Rango principal amarillo */
+    var(--main-color) calc(var(--percentage) * 1% - 8%), calc(var(--percentage) * 1%), /* Pequeño segmento blanco */
+    white calc(var(--percentage) * 1%) /* Fondo restante del círculo */
+  );
+  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* El "hueco" del centro para transformar el círculo relleno en un anillo */
+.circular-progress::before {
+  content: "";
+  position: absolute;
+  width: 96px; /* Ajusta este valor para cambiar el grosor del borde */
+  height: 96px;
+  background-color: #1a2634; /* Debe ser del mismo color que el fondo de la card */
+  border-radius: 50%;
+}
+
+/* Estilo del texto del porcentaje */
+.progress-value {
+  position: relative;
+  font-size: 24px;
+  font-weight: bold;
+  color: #ffffff;
+}
+.back-banner-img-services{
+    background-image: url(/assets/services.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.back-banner-shadow-services {
+    width: 100%;
+    height: 100%;
+    background-color: rgba(var(--bg-banner), 0.8);
+    padding: 100px;
 }
