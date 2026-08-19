@@ -32,7 +32,9 @@
             <div class="menu" id="menu">
                 <div class="content-menu-items">
                     <div>
-                        <img class="img-logo-menu" src="/assets/logo.png"/>
+                        <a href="/">
+                            <img class="img-logo-menu" src="/assets/logo.png"/>
+                        </a>
                     </div>
                     <a href="/" class="item-menu">Inicio</a>
                     <a href="/nosotros" class="item-menu">Nosotros</a>
@@ -56,7 +58,8 @@
                             </a>
                         </div>
                     </div>
-                    <div class="item-menu">Casos de Éxito</div>
+                    <a href="/casos-de-exito" class="item-menu">Casos de Éxito</a>
+                    <a href="#" class="item-menu">Blog</a>
                 </div>
                 <div class="content-menu-items">
                     <div>

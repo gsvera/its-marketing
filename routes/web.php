@@ -24,3 +24,6 @@ Route::get('/posicionamiento-seo', function() {
 Route::get('/diseño-y-desarrollo-de-paginas-web', function() {
     return view('web-desing');
 });
+Route::get('/casos-de-exito', function() {
+    return view('success-case');
+});;
