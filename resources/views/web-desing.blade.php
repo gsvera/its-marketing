@@ -42,27 +42,27 @@
         </div>
         <div class="content-grid-three">
             <div class="card-services card-services-borde">
-                <img class="icon-card mx-auto" src="/assets/branding.png" alt="">
+                <img class="icon-card mx-auto" src="/assets/iconos/reporte-de-posicionamiento.png" alt="Icono de reporte de posicionamiento web y rendimiento técnico de sitios">
                 <h3 class="title-card t-center">Reporte de posicionamiento</h3>
             </div>
             <div class="card-services card-services-borde">
-                <img class="icon-card mx-auto" src="/assets/branding.png" alt="">
+                <img class="icon-card mx-auto" src="/assets/iconos/briefing-creativo.png" alt="Icono de briefing creativo y planeación de proyectos de desarrollo web">
                 <h3 class="title-card t-center">Briefing creativo</h3>
             </div>
             <div class="card-services card-services-borde">
-                <img class="icon-card mx-auto" src="/assets/branding.png" alt="">
+                <img class="icon-card mx-auto" src="/assets/iconos/estudio-de-experiencia.png" alt="Icono de estudio de experiencia de usuario UX y diseño de interfaces web">
                 <h3 class="title-card t-center">Estudio de experiencia de ususario</h3>
             </div>
             <div class="card-services card-services-borde">
-                <img class="icon-card mx-auto" src="/assets/branding.png" alt="">
+                <img class="icon-card mx-auto" src="/assets/iconos/wordpress-o-html.png" alt="Icono de desarrollo web en WordPress y programación en HTML5 a medida">
                 <h3 class="title-card t-center">WordPress o HTML 5</h3>
             </div>
             <div class="card-services card-services-borde">
-                <img class="icon-card mx-auto" src="/assets/branding.png" alt="">
+                <img class="icon-card mx-auto" src="/assets/iconos/desarrollo-de-pagina.png" alt="Icono de desarrollo de página web profesional, moderna y responsiva">
                 <h3 class="title-card t-center">Desarrollo de página web</h3>
             </div>
             <div class="card-services card-services-borde">
-                <img class="icon-card mx-auto" src="/assets/branding.png" alt="">
+                <img class="icon-card mx-auto" src="/assets/iconos/entrega-de-proyecto.png" alt="Icono de entrega de proyecto web finalizado y lanzamiento de sitios en internet">
                 <h3 class="title-card t-center">Entrega de proyecto</h3>
             </div>
         </div>

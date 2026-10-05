@@ -43,27 +43,27 @@
         </div>
         <div class="content-grid-three">
             <div class="card-services card-services-borde">
-                <img class="icon-card mx-auto" src="/assets/branding.png" alt="">
+                <img class="icon-card mx-auto" src="/assets/iconos/informe-de-resultados.png" alt="Icono de informe de resultados y métricas de publicidad digital">
                 <h3 class="title-card t-center">Informe de resultados</h3>
             </div>
             <div class="card-services card-services-borde">
-                <img class="icon-card mx-auto" src="/assets/branding.png" alt="">
+                <img class="icon-card mx-auto" src="/assets/iconos/estrategias-de-desarrollo-publicitario.png" alt="Icono de planeación y estrategias de desarrollo publicitario para marcas">
                 <h3 class="title-card t-center">Estrategias de desarrollo publicitario</h3>
             </div>
             <div class="card-services card-services-borde">
-                <img class="icon-card mx-auto" src="/assets/branding.png" alt="">
+                <img class="icon-card mx-auto" src="/assets/iconos/analisis-de-competencia-digital.png" alt="Icono de análisis de competencia digital y mercado online">
                 <h3 class="title-card t-center">Análisis de competencia digital</h3>
             </div>
             <div class="card-services card-services-borde">
-                <img class="icon-card mx-auto" src="/assets/branding.png" alt="">
+                <img class="icon-card mx-auto" src="/assets/iconos/gestion-de-anuncios.png" alt="Icono de gestión y administración de anuncios en internet y pauta publicitaria">
                 <h3 class="title-card t-center">Gestión de anuncios en internet</h3>
             </div>
             <div class="card-services card-services-borde">
-                <img class="icon-card mx-auto" src="/assets/branding.png" alt="">
+                <img class="icon-card mx-auto" src="/assets/iconos/desarrollo-de-presupuestos.png" alt="Icono de cálculo y desarrollo de presupuestos para campañas publicitarias">
                 <h3 class="title-card t-center">Desarrollo de presupuestos</h3>
             </div>
             <div class="card-services card-services-borde">
-                <img class="icon-card mx-auto" src="/assets/branding.png" alt="">
+                <img class="icon-card mx-auto" src="/assets/iconos/optimizacion-de-campañas.png" alt="Icono de optimización de campañas de marketing digital y conversión">
                 <h3 class="title-card t-center">Optimización de campañas</h3>
             </div>
         </div>

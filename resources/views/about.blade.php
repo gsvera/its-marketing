@@ -31,11 +31,11 @@
                 </div>
                 <div class="wd-45 content-xy-center">
                     <div class="content-relative">
-                        <img class="img-one-column" src="/assets/dos-personas.jpg" />
+                        <img class="img-one-column" src="/assets/dos-personas.jpg" alt="Construyendo historias digitales de impacto. Somos It's Marketing, tu agencia de Marketing Digital en México." />
                         <div class="block-contact">
                             <a href="" class="content-xy-center gap-10">
                                 <div class="box-phone">
-                                    <i class="fa fa-phone tc-white fa-2x" aria-hidden="true"></i>
+                                    <img class="icon-phone" src="/assets/iconos/phone-white.png" alt="Contacto telefónico de It's Marketing para consultoria" />
                                 </div>
                                 <div>
                                     <p class="fs-12">Obten Consultoria</p>
@@ -57,7 +57,7 @@
                 <p class="tf-bold tc-white mb-2 psr-2">¿Por qué Elegirnos?</p>
                 <h2 class="subtitle tc-white psr-2">Proveemos Soluciones Creativas Para Tus Ideas Creativas</h2>
                 <p class="tc-secondary">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi et rerum possimus maxime minus! At aliquam necessitatibus veniam consequuntur ipsam ipsum illum, ad adipisci maxime accusamus perferendis dicta qui quo.
+                    En It's Marketing combinamos creatividad, tecnología y análisis de datos para diseñar soluciones digitales que superen tus expectativas. Nos enfocamos en entender a fondo los objetivos de tu negocio para construir estrategias sólidas que potencien tu presencia digital y generen un crecimiento real y sostenible.
                 </p>
                 <div class="content-space-between mt-40">
                     <div>
@@ -65,14 +65,14 @@
                             <span class="progress-value">92%</span>
                         </div>
                         <h3 class="tc-white subtitle-h3 mb-1">Soluciones Creativas</h3>
-                        <p class="tc-secondary">Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident laboriosam quod iure </p>
+                        <p class="tc-secondary">Desarrollamos conceptos visuales e innovadores alineados a la personalidad e identidad de tu marca para destacar en el entorno digital.</p>
                     </div>
                     <div>
                         <div class="circular-progress" style="--percentage: 94;">
                             <span class="progress-value">94%</span>
                         </div>
                         <h3 class="tc-white subtitle-h3 mb-1">Estrategia Digital</h3>
-                        <p class="tc-secondary">Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident laboriosam quod iure </p>
+                        <p class="tc-secondary">Ejecutamos planes de acción basados en análisis métricos para garantizar resultados optimizados y orientados a la conversión.</p>
                     </div>
                 </div>
                 <div class="mt-4">

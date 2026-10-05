@@ -33,7 +33,7 @@
                 <div class="content-menu-items">
                     <div>
                         <a href="/">
-                            <img class="img-logo-menu" src="/assets/logo.png"/>
+                            <img class="img-logo-menu" src="/assets/logo.png" alt="Logo de It's Marketing" />
                         </a>
                     </div>
                     <a href="/" class="item-menu">Inicio</a>
@@ -63,7 +63,7 @@
                 </div>
                 <div class="content-menu-items">
                     <div>
-                        <i class="fa fa-comments main-color" style="font-size: 2.5em;" aria-hidden="true"></i>
+                        <img class="icon-menu-mns" src="/assets/iconos/consultoria.png" alt="Atencion a mensajes para obtener consultoria de marketing digital" />
                     </div>
                     <div class="item-menu">
                         Obten Consultoria
@@ -86,8 +86,10 @@
             <div class="footer-content">
 
                 <div>
-                    <img class="icon-footer" src="/assets/logo.png" alt="">
-                    <p class="tc-secondary mt-40">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eligendi nulla animi, sequi, adipisci neque</p>
+                    <img class="icon-footer" src="/assets/logo.png" alt="Logo de It's Marketing" />
+                    <p class="tc-secondary mt-40">
+                        Transformamos la presencia digital de las marcas a través de estrategias creativas, análisis de datos y resultados medibles. Tu socio estratégico en marketing integral.
+                    </p>
                     <div class="icons-ss-footer">
                         <span href="" class="btn-icon ho-white">
                             <i class="fa fa-facebook icon" aria-hidden="true"></i>
@@ -124,8 +126,7 @@
                     <div class="divisor-subtitle-footer"></div>
                     <div>
                         <p class="tc-white my-10"><i class="fa fa-clock-o tc-main-btn" aria-hidden="true"></i> 9 AM - 7 PM, Lunes - Viernes</p>
-                        <p class="tc-white my-10"><i class="fa fa-clock-o tc-main-btn" aria-hidden="true"></i> 9 AM - 2 PM, Sabado</p>
-                        <p class="tc-secondary my-20">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cumque nisi, at, impedit omnis recusandae</p>
+                        <p class="tc-secondary my-20">Estamos listos para llevar tu marca al siguiente nivel. Contáctanos y agendemos una sesión estratégica.</p>
                         <div>
                             <button class="btn-contact ho-white" type="button">Contacto</button>
                         </div>

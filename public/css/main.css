@@ -1,11 +1,15 @@
 
+*,*::after,*::before{
+    box-sizing: border-box;
+}
 :root {
-    --bg-color: #15222b;
-    --bg-banner: 21, 34, 43;
-    --main-color: #f0a202;
-    --secondary-color: #7C8286;
-    --rgb-secondary: 124, 130, 134;
-    --btn-color: #f0a202;
+    --bg-body: #f8f6f1;
+    --bg-color:#751c3c;
+    --bg-banner: 117, 28, 60;
+    --main-color: #c19555;
+    --secondary-color: #a7a98a ;
+    --rgb-secondary: 	167, 169, 138;
+    --btn-color: #c19555;
 }
 
 @font-face{
@@ -26,6 +30,9 @@
     src: url(/assets/fonts/Outfit/static/Outfit-Medium.ttf);
     font-weight: normal;
     font-style: normal;
+}
+body{
+    background-color: var(--bg-body);
 }
 h1, h2, h3, h4, h5 {
     font-family: Outfit, Outfit-Mac;
@@ -202,7 +209,7 @@ p {
     padding: 30px 50px;
 }
 .menu-fixed {
-  background-color: rgba(21, 34, 43, 0.8);
+  background-color: rgba(var(--bg-banner), 0.8);
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);
   z-index: 1000;
@@ -283,6 +290,14 @@ p {
 }
 .icon { 
     font-size: 1.2em;
+}
+.icon-menu-mns{
+    width: 50px;
+    height: 50px;
+}
+.icon-phone{
+    width: 30px;
+    height: 30px;
 }
 .btn-icon:hover{
     transform: scale(0.8);
@@ -410,6 +425,11 @@ p {
 .link-footer:hover {
     color: var(--btn-color);
 }
+.content-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 .content-body-dark{
     background-color: var(--bg-color);
     padding: 10px 50px;
@@ -526,12 +546,16 @@ p {
   background-size: 100% 100%; /* El fondo crece hasta cubrir toda la altura (100%) */
   color: #ffffff; /* Opcional: cambia el color del texto para que contraste */
 }
+.card-services:hover > .icon-card {
+    filter: brightness(0) invert(1); /* Cambia el color del icono a blanco */
+}
 .card-services-borde {
     box-shadow: 0 0 6px -3px rgba(0, 0, 0, 0.6);
 }
 .icon-card{
     width: 120px;
     margin-bottom: 20px;
+    transition:  filter 0.4s ease-in-out;
 }
 .icon-card-small {
     width: 60px;
@@ -609,7 +633,7 @@ p {
   position: absolute;
   width: 96px; /* Ajusta este valor para cambiar el grosor del borde */
   height: 96px;
-  background-color: #1a2634; /* Debe ser del mismo color que el fondo de la card */
+  background-color: var(--bg-color); /* Debe ser del mismo color que el fondo de la card */
   border-radius: 50%;
 }
 
@@ -687,7 +711,7 @@ p {
     height: auto !important;
 }
 .accordion-item.active .accordion-header {
-  background-color: #f39c12; 
+  background-color: var(--btn-color); 
   color: #ffffff;
   
 }

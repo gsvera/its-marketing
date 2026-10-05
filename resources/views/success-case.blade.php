@@ -31,11 +31,11 @@
             </div>
             <div class="wd-45 content-xy-center">
                 <div class="content-relative">
-                    <img class="img-one-column" src="/assets/dos-personas.jpg" />
+                    <img class="img-one-column" src="/assets/dos-personas.jpg" alt="Dos personas trabajando juntas en un proyecto de marketing" />
                     <div class="block-contact">
                         <a href="" class="content-xy-center gap-10">
                             <div class="box-phone">
-                                <i class="fa fa-phone tc-white fa-2x" aria-hidden="true"></i>
+                                <img class="icon-phone" src="/assets/iconos/phone-white.png" alt="Contacto telefónico de It's Marketing para consultoria" />
                             </div>
                             <div>
                                 <p class="fs-12">Obten Consultoria</p>
@@ -71,9 +71,9 @@
                     <div class="text-center mb-2">
                         <i class="fa fa-diamond icon-yellow" aria-hidden="true"></i>
                     </div>
-                    <h3 class="tc-white text-center mb-2">Marketing B2B para eventos y convenciones</h3>
+                    <h3 class="tc-white text-center mb-2">Marketing hotelero y turístico</h3>
                     <p class="tc-secondary">
-                        Creando contenido audiovisual que llega directo a organizadores de congresos, agencias DMC y planificadores de bodas y eventos corporativos en mercados internacionales.
+                        Con contenido bilingüe (español e inglés) para hoteles boutique que venden experiencias, no solo habitaciones, con estrategias de venta indirecta que priorizan la conexión emocional sobre la promoción agresiva.
                     </p>
                 </div>
             </div>
@@ -82,9 +82,9 @@
                     <div class="text-center mb-2">
                         <i class="fa fa-diamond icon-yellow" aria-hidden="true"></i>
                     </div>
-                    <h3 class="tc-white text-center mb-2">Marketing B2B para eventos y convenciones</h3>
+                    <h3 class="tc-white text-center mb-2">Gestión de comunidades para medios de comunicación</h3>
                     <p class="tc-secondary">
-                        Creando contenido audiovisual que llega directo a organizadores de congresos, agencias DMC y planificadores de bodas y eventos corporativos en mercados internacionales.
+                        Con estrategias para incrementar seguidores, elevar la interacción real y abrir nuevas vías de monetización digital.
                     </p>
                 </div>
             </div>            
@@ -95,9 +95,9 @@
                     <div class="text-center mb-2">
                         <i class="fa fa-diamond icon-yellow" aria-hidden="true"></i>
                     </div>
-                    <h3 class="tc-white text-center mb-2">Marketing B2B para eventos y convenciones</h3>
+                    <h3 class="tc-white text-center mb-2">Contenido con propósito social</h3>
                     <p class="tc-secondary">
-                        Creando contenido audiovisual que llega directo a organizadores de congresos, agencias DMC y planificadores de bodas y eventos corporativos en mercados internacionales.
+                        Donde ponemos toda nuestra sensibilidad al servicio de causas educativas y organizaciones sin fines de lucro, contando historias auténticas que emocionan y convierten a seguidores en donantes y padrinos comprometidos.
                     </p>
                 </div>
             </div>
@@ -156,8 +156,8 @@
         <div class="content-grid-three my-50">
             <div class="card-dark-big">
                 <div>
-                    <div class="text-center mb-2">
-                        <i class="fa fa-diamond icon-yellow" aria-hidden="true"></i>
+                    <div class="content-center">
+                        <img src="/assets/iconos/integracion-total-del-contenido-seo.png" class="icon-card-small" alt="Icono de integración total de contenido SEO, redes sociales y pauta digital en estrategia 360">
                     </div>
                     <h3 class="tc-white text-center mb-2">Integración total del contenido SEO </h3>
                     <p class="tc-secondary">
@@ -167,8 +167,8 @@
             </div>
             <div class="card-dark-big">
                 <div>
-                    <div class="text-center mb-2">
-                        <i class="fa fa-diamond icon-yellow" aria-hidden="true"></i>
+                    <div class="content-center">
+                        <img src="/assets/iconos/landing-pages-con-estructura-seo.png" class="icon-card-small" alt="Icono de landing pages optimizadas con estructura SEO y motores de inteligencia artificial GEO">
                     </div>
                     <h3 class="tc-white text-center mb-2">Landing pages con estructura SEO</h3>
                     <p class="tc-secondary">
@@ -178,8 +178,8 @@
             </div>
             <div class="card-dark-big">
                 <div>
-                    <div class="text-center mb-2">
-                        <i class="fa fa-diamond icon-yellow" aria-hidden="true"></i>
+                    <div class="content-center">
+                        <img src="/assets/iconos/redaccion-de-articulos-blog.png" class="icon-card-small" alt="Icono de redacción de artículos de blog con estructura semántica y enfoque SEO e IA">
                     </div>
                     <h3 class="tc-white text-center mb-2">Artículos de blog que refuerzan la palabra clave</h3>
                     <p class="tc-secondary">
@@ -192,8 +192,8 @@
             
             <div class="card-dark-big">
                 <div>
-                    <div class="text-center mb-2">
-                        <i class="fa fa-diamond icon-yellow" aria-hidden="true"></i>
+                    <div class="content-center">
+                        <img class="icon-card-small" src="/assets/iconos/planeacion-de-palabras-clave.png" alt="Icono de análisis mensual de palabras clave y estudio de mercado personalizado para SEO">
                     </div>
                     <h3 class="tc-white text-center mb-2">Análisis mensual de palabras clave</h3>
                     <p class="tc-secondary">
@@ -236,7 +236,7 @@
             </div>
             <div class="wd-45 content-xy-center">
                 <div class="content-relative">
-                    <img class="img-one-column" src="/assets/dos-personas.jpg" />
+                    <img class="img-one-column" src="/assets/dos-personas.jpg" alt="Dos personas trabajando juntas en un proyecto de marketing" />
                 </div>
             </div>
         </div>

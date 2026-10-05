@@ -41,8 +41,8 @@
                     <img class="img-one-column" src="/assets/dos-personas.jpg" />
                     <div class="block-contact">
                         <a href="" class="content-xy-center gap-10">
-                            <div class="box-phone">
-                                <i class="fa fa-phone tc-white fa-2x" aria-hidden="true"></i>
+                            <div class="box-phone">                            
+                                <img class="icon-phone" src="/assets/iconos/phone-white.png" alt="">
                             </div>
                             <div>
                                 <p class="fs-12">Obten Consultoria</p>
@@ -65,18 +65,18 @@
                     </div>
                     <div>
                         <h3 class="card-title">Calidad de servicio</h3>
-                        <p class="tc-secondary">Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque voluptatum nobis</p>
+                        <p class="tc-secondary">Diseñamos estrategias personalizadas con altos estándares de ejecución para garantizar el máximo rendimiento de tu inversión digital.</p>
                     </div>
                 </div>
                 <div class="card-yellow">
                     <div class="aling-start">
                         <div class="card-badge-white">
-                            <i class="fa fa-comments card-icon-yellow" aria-hidden="true"></i>
+                            <img class="icon-menu-mns" src="/assets/iconos/atencion-a-mensajes.png" alt="Atencion a mensajes para obtener consultoria" />
                         </div>
                     </div>
                     <div>
                         <h3 class="card-title tc-white">Consultoria</h3>
-                        <p class="tc-white">Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque voluptatum nobis</p>
+                        <p class="tc-white">Analizamos el estado de tu marca, identificamos oportunidades clave de mercado y trazamos la ruta estratégica para acelerar tu crecimiento.</p>
                     </div>
                 </div>
                 <div class="card-dark">
@@ -87,7 +87,7 @@
                     </div>
                     <div>
                         <h3 class="card-title tc-white">Atención Profesional</h3>
-                        <p class="tc-secondary tc-secondary">Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque voluptatum nobis</p>
+                        <p class="tc-secondary tc-secondary">Un equipo especializado te acompañará de cerca en cada etapa de tu proyecto, asegurando comunicación fluida y resultados constantes.</p>
                     </div>
                 </div>
             </div>
@@ -98,28 +98,28 @@
                 <div class="content-xy-center">
                     <i class="fa fa-user-circle-o icon-count" aria-hidden="true"></i>
                 </div>
-                <div class="number-count">1245 <span class="symbol-count">+</span></div>
+                <div class="number-count">120 <span class="symbol-count">+</span></div>
                 <div class="tc-secondary t-center">Clientes Felices</div>
             </div>
             <div>
                 <div class="content-xy-center">
                     <i class="fa fa-user-circle-o icon-count" aria-hidden="true"></i>
                 </div>
-                <div class="number-count">3452 <span class="symbol-count">+</span></div>
+                <div class="number-count">350 <span class="symbol-count">+</span></div>
                 <div class="tc-secondary t-center">Proyectos Completos</div>
             </div>
             <div>
                 <div class="content-xy-center">
                     <i class="fa fa-user-circle-o icon-count" aria-hidden="true"></i>
                 </div>
-                <div class="number-count">15 <span class="symbol-count">+</span></div>
+                <div class="number-count">14 <span class="symbol-count">+</span></div>
                 <div class="tc-secondary t-center">Años de experiencia</div>
             </div>
             <div>
                 <div class="content-xy-center">
                     <i class="fa fa-user-circle-o icon-count" aria-hidden="true"></i>
                 </div>
-                <div class="number-count">5 <span class="symbol-count">+</span></div>
+                <div class="number-count">12 <span class="symbol-count">+</span></div>
                 <div class="tc-secondary t-center">Equipo profesional</div>
             </div>
         </div>
@@ -133,7 +133,7 @@
             </div>
             <div class="col-4 content-xy-center">
                 <p class="tc-secondary">
-                    En It's Marketing atraemos clientes potenciales mediante estrategias de Inbound Marketing que integran redes sociales, SEO, SEM y diseño web. Cada servicio está pensado para generar resultados medibles y maximizar el retorno de inversión de tu empresa.
+                    Impulsamos la presencia digital de tu marca mediante estrategias integrales orientadas a la captación de prospectos y conversión de ventas.
                 </p>
             </div>
             <div class="content-xy-center col-2">
@@ -144,32 +144,42 @@
             <div class="card-services">
                 <img class="icon-card" src="/assets/branding.png" alt="">
                 <h3 class="title-card">Marketing Digital</h3>
-                <p class="tc-secondary mb-2">Mantenerse actualizado sobre las últimas tendencias, tecnologías y tácticas del sector no es opcional.</p>
+                <p class="tc-secondary mb-2">
+                    Construimos comunidades sólidas y creamos contenido estratégico de alto impacto para conectar emocionalmente con tu audiencia.
+                </p>
                 <a class="link-card" href="/marketing-digital">Leer más</a>
             </div>
             <div class="card-services">
                 <img class="icon-card" src="/assets/branding.png" alt="">
                 <h3 class="title-card">Redes Sociales</h3>
-                <p class="tc-secondary mb-2">It's Marketing diseña estrategias de redes sociales que fusionan conexión emocional con técnicas de venta digital</p>
+                <p class="tc-secondary mb-2">
+                    Construimos comunidades sólidas y creamos contenido estratégico de alto impacto para conectar emocionalmente con tu audiencia.
+                </p>
                 <a class="link-card" href="/redes-sociales">Leer más</a>
             </div>
             <div class="card-services">
                 <img class="icon-card" src="/assets/branding.png" alt="">
                 <h3 class="title-card">Publicidad Digital</h3>
-                <p class="tc-secondary mb-2"> A través de campañas inteligentemente segmentadas, generamos visibilidad instantánea.</p>
+                <p class="tc-secondary mb-2">
+                    Diseñamos e implementamos campañas segmentadas de alto rendimiento para maximizar tu alcance e incrementar tu retorno de inversión.
+                </p>
                 <a class="link-card" href="/publicidad-digital">Leer más</a>
             </div>
             <div class="card-services">
                 <img class="icon-card" src="/assets/branding.png" alt="">
                 <h3 class="title-card">Posicionamiento SEO</h3>
-                <p class="tc-secondary mb-2">Trabajamos de manera estratégica para desarrollar planes de optimización que incrementen el tráfico orgánico.</p>
+                <p class="tc-secondary mb-2">
+                    Optimizamos tu estructura web y contenidos para escalar posiciones orgánicas en los principales motores de búsqueda.
+                </p>
                 <a class="link-card" href="/posicionamiento-seo">Leer más</a>
             </div>
             <div></div>
             <div class="card-services">
                 <img class="icon-card" src="/assets/branding.png" alt="">
                 <h3 class="title-card">Diseño y Desarrollo de Páginas Web</h3>
-                <p class="tc-secondary mb-2">Desarrollamos sitios web modernos, estéticamente atractivos y alineados con tus objetivos comerciales.</p>
+                <p class="tc-secondary mb-2">
+                    Desarrollamos sitios web funcionales, atractivos y optimizados para ofrecer la mejor experiencia de usuario e impulsar conversiones.
+                </p>
                 <a class="link-card" href="/diseño-y-desarrollo-de-paginas-web">Leer más</a>
             </div>
         </div>

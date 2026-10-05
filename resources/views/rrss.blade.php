@@ -45,27 +45,23 @@
         </div>
         <div class="content-grid-three">
             <div class="card-services card-services-borde">
-                <img class="icon-card mx-auto" src="/assets/branding.png" alt="">
+                <img class="icon-card mx-auto" src="/assets/iconos/creacion-de-material-grafico.png" alt="Icono de creación de material gráfico y diseño para redes sociales">
                 <h3 class="title-card t-center">Creación de material gráfico</h3>
             </div>
             <div class="card-services card-services-borde">
-                <img class="icon-card mx-auto" src="/assets/branding.png" alt="">
+                <img class="icon-card mx-auto" src="/assets/iconos/servicio-de-community-manager.png" alt="Icono de servicio de Community Manager y gestión de comunidades online">
                 <h3 class="title-card t-center">Servicio de Community Manager</h3>
             </div>
             <div class="card-services card-services-borde">
-                <img class="icon-card mx-auto" src="/assets/branding.png" alt="">
+                <img class="icon-card mx-auto" src="/assets/iconos/publicidad-en-google-y-rrss.png" alt="Icono de desarrollo de contenido estratégico para plataformas digitales">
                 <h3 class="title-card t-center">Desarrollo de contenido estratégico</h3>
             </div>
             <div class="card-services card-services-borde">
-                <img class="icon-card mx-auto" src="/assets/branding.png" alt="">
+                <img class="icon-card mx-auto" src="/assets/iconos/optimizacion-de-campañas.png" alt="Icono de gestión de campañas de publicidad y pauta en redes sociales">
                 <h3 class="title-card t-center">Gestión de campañas de publicidad</h3>
             </div>
             <div class="card-services card-services-borde">
-                <img class="icon-card mx-auto" src="/assets/branding.png" alt="">
-                <h3 class="title-card t-center">Servicio de Community Manager</h3>
-            </div>
-            <div class="card-services card-services-borde">
-                <img class="icon-card mx-auto" src="/assets/branding.png" alt="">
+                <img class="icon-card mx-auto" src="/assets/iconos/atencion-a-mensajes.png" alt="Icono de atención a mensajes y respuesta a clientes en redes sociales">
                 <h3 class="title-card t-center">Atención a mensajes</h3>
             </div>
         </div>

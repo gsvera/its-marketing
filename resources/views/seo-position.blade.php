@@ -45,27 +45,27 @@
         </div>
         <div class="content-grid-three">
             <div class="card-services card-services-borde">
-                <img class="icon-card mx-auto" src="/assets/branding.png" alt="">
+                <img class="icon-card mx-auto" src="/assets/iconos/reporte-de-posicionamiento.png" alt="Icono de reporte de posicionamiento SEO y métricas de visibilidad orgánica en Google">
                 <h3 class="title-card t-center">Reporte de posicionamiento</h3>
             </div>
             <div class="card-services card-services-borde">
-                <img class="icon-card mx-auto" src="/assets/branding.png" alt="">
+                <img class="icon-card mx-auto" src="/assets/iconos/estrategia-de-posicionamiento-web.png" alt="Icono de estrategia de posicionamiento web y optimización SEO para buscadores">
                 <h3 class="title-card t-center">Estrategia de posicionamiento web</h3>
             </div>
             <div class="card-services card-services-borde">
-                <img class="icon-card mx-auto" src="/assets/branding.png" alt="">
+                <img class="icon-card mx-auto" src="/assets/iconos/analisis-de-posicionamiento-digital.png" alt="Icono de análisis de posicionamiento digital y auditoría SEO de sitios web">
                 <h3 class="title-card t-center">Análisis de posicionamiento digital</h3>
             </div>
             <div class="card-services card-services-borde">
-                <img class="icon-card mx-auto" src="/assets/branding.png" alt="">
+                <img class="icon-card mx-auto" src="/assets/iconos/planeacion-de-palabras-clave.png" alt="Icono de planeación e investigación de palabras clave o keywords para SEO">
                 <h3 class="title-card t-center">Planeación de palabras clave</h3>
             </div>
             <div class="card-services card-services-borde">
-                <img class="icon-card mx-auto" src="/assets/branding.png" alt="">
+                <img class="icon-card mx-auto" src="/assets/iconos/optimizacion-de-pagina-web.png" alt="Icono de optimización de página web y SEO On-Page técnico">
                 <h3 class="title-card t-center">Optimización de página web</h3>
             </div>
             <div class="card-services card-services-borde">
-                <img class="icon-card mx-auto" src="/assets/branding.png" alt="">
+                <img class="icon-card mx-auto" src="/assets/iconos/articulos-de-blog.png" alt="Icono de redacción de artículos para blog y estrategia de contenidos SEO">
                 <h3 class="title-card t-center">Redacción de artículos blog</h3>
             </div>
         </div>
