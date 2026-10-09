@@ -1,4 +1,7 @@
 @extends('layouts.layout')
+@section('neta')
+<link rel="canonical" href="https://itsmarketing.mx/casos-de-exito-de-marketing-digital-cancun" />
+@endsection
 @section('content')
 <div>
     <div class="banner-about">
@@ -35,10 +38,10 @@
                     <div class="block-contact">
                         <a rel="nofollow" href="https://wa.me/9981539626" target="_blank" class="content-xy-center gap-10">
                             <div class="box-phone">
-                                <img class="icon-phone" src="/assets/iconos/phone-white.png" alt="Contacto telefónico de It's Marketing para consultoria" />
+                                <img class="icon-phone" src="/assets/iconos/phone-white.png" alt="Contacto telefónico de It's Marketing para consultoría" />
                             </div>
                             <div>
-                                <p class="fs-12">Obten Consultoria</p>
+                                <p class="fs-12">Obten Consultoría</p>
                                 <p class="tc-secondary">(+52) 998 153 9626</p>
                             </div>
                         </a>
@@ -316,7 +319,7 @@
                     ¿Listo para que tu marca sea la próxima historia que contemos? Hablemos.
                 </p>
                 <div class="mt-4 content-xy-center">
-                    <a rel="nofollow" href="https://wa.me/9981539626" target="_blank" class="btn-contact-lg ho-white">Obten Consultoria</a>
+                    <a rel="nofollow" href="https://wa.me/9981539626" target="_blank" class="btn-contact-lg ho-white">Obten Consultoría</a>
                 </div>
             </div>
         </div>

@@ -1,4 +1,7 @@
 @extends('layouts.layout')
+@section('neta')
+<link rel="canonical" href="https://itsmarketing.mx/agencia-de-publicidad-digital-cancun" />
+@endsection
 @section('content')
 <div>
     <div class="banner-about">
@@ -63,7 +66,7 @@
                 <h3 class="title-card t-center">Desarrollo de presupuestos</h3>
             </div>
             <div class="card-services card-services-borde">
-                <img class="icon-card mx-auto" src="/assets/iconos/optimizacion-de-campañas.png" alt="Icono de optimización de campañas de marketing digital y conversión">
+                <img class="icon-card mx-auto" src="/assets/iconos/optimizacion-de-campanias.png" alt="Icono de optimización de campañas de marketing digital y conversión">
                 <h3 class="title-card t-center">Optimización de campañas</h3>
             </div>
         </div>

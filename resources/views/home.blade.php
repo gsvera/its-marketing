@@ -44,7 +44,7 @@
                                 <img class="icon-phone" src="/assets/iconos/phone-white.png" alt="">
                             </div>
                             <div>
-                                <p class="fs-12">Obten Consultoria</p>
+                                <p class="fs-12">Obten Consultoría</p>
                                 <p class="tc-secondary">(+52) 998 153 9626</p>
                             </div>
                         </a>
@@ -70,11 +70,11 @@
                 <div class="card-yellow">
                     <div class="aling-start">
                         <div class="card-badge-white">
-                            <img class="icon-menu-mns" src="/assets/iconos/atencion-a-mensajes.png" alt="Atencion a mensajes para obtener consultoria" />
+                            <img class="icon-menu-mns" src="/assets/iconos/atencion-a-mensajes.png" alt="Atencion a mensajes para obtener consultoría" />
                         </div>
                     </div>
                     <div>
-                        <h3 class="card-title tc-white">Consultoria</h3>
+                        <h3 class="card-title tc-white">Consultoría</h3>
                         <p class="tc-white">Analizamos el estado de tu marca, identificamos oportunidades clave de mercado y trazamos la ruta estratégica para acelerar tu crecimiento.</p>
                     </div>
                 </div>

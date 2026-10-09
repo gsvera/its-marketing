@@ -1,4 +1,7 @@
 @extends('layouts.layout')
+@section('neta')
+    <link rel="canonical" href="https://itsmarketing.mx/agencia-de-diseño-y-desarrollo-de-paginas-web-cancun" />
+@endsection
 @section('content')
 <div>
     <div class="banner-about">
