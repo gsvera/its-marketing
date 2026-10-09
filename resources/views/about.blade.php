@@ -11,7 +11,7 @@
         <div class="content-body">
             <div class="content-space-between">
                 <div class="content-xy-center wd-45">
-                    <div class="content-relative">
+                    <div class="content-relative mb-5-mob">
                         <div class="circle-blob circle-blob-content"></div>
                         <p class="tf-bold-600 mb-2">Nosotros</p>
                         <h2 class="subtitle">Construyendo historias digitales de impacto. Somos It's Marketing, tu agencia de Marketing Digital en México.</h2>
@@ -25,7 +25,7 @@
                             Funcionamos como un departamento externo de mercadotecnia digital: nos integramos a tu equipo, entendemos tu negocio y actuamos con la agilidad y el enfoque estratégico de una agencia especializada. No importa si eres una startup, una pyme o una empresa consolidada: en It's Marketing tenemos la solución digital adecuada para ti.
                         </p>
                         <div class="mt-4">
-                            <a href="#" class="btn-contact-lg ho-dark">Contáctanos</a>
+                            <a rel="nofollow" href="https://wa.me/9981539626" target="_blank" class="btn-contact-lg ho-dark">Contáctanos</a>
                         </div>
                     </div>
                 </div>
@@ -33,7 +33,7 @@
                     <div class="content-relative">
                         <img class="img-one-column" src="/assets/dos-personas.jpg" alt="Construyendo historias digitales de impacto. Somos It's Marketing, tu agencia de Marketing Digital en México." />
                         <div class="block-contact">
-                            <a href="" class="content-xy-center gap-10">
+                            <a rel="nofollow" href="https://wa.me/9981539626" target="_blank" class="content-xy-center gap-10">
                                 <div class="box-phone">
                                     <img class="icon-phone" src="/assets/iconos/phone-white.png" alt="Contacto telefónico de It's Marketing para consultoria" />
                                 </div>
@@ -47,7 +47,7 @@
                 </div>
             </div>
         </div>
-        <div class="d-flex mb-5 content-relative">
+        <div class="d-flex-desk mb-5 content-relative">
             <div class="background-about">
             </div>
             <div class="col-dark">
@@ -61,25 +61,28 @@
                 </p>
                 <div class="content-space-between mt-40">
                     <div>
-                        <div class="circular-progress" style="--percentage: 92;">
-                            <span class="progress-value">92%</span>
+                        <div class="circular-progress box-count" style="--percentage: 0;">
+                            <span class="progress-value number-count" data-target="92">0</span>%
                         </div>
                         <h3 class="tc-white subtitle-h3 mb-1">Soluciones Creativas</h3>
                         <p class="tc-secondary">Desarrollamos conceptos visuales e innovadores alineados a la personalidad e identidad de tu marca para destacar en el entorno digital.</p>
                     </div>
                     <div>
-                        <div class="circular-progress" style="--percentage: 94;">
-                            <span class="progress-value">94%</span>
+                        <div class="circular-progress box-count" style="--percentage: 0;">
+                            <span class="progress-value number-count" data-target="94">0</span>%
                         </div>
                         <h3 class="tc-white subtitle-h3 mb-1">Estrategia Digital</h3>
                         <p class="tc-secondary">Ejecutamos planes de acción basados en análisis métricos para garantizar resultados optimizados y orientados a la conversión.</p>
                     </div>
                 </div>
                 <div class="mt-4">
-                    <a href="#" class="btn-contact-lg ho-white">Obten Consultoria</a>
+                    <a rel="nofollow" href="https://wa.me/9981539626" target="_blank" class="btn-contact-lg ho-white">Obten Consultoria</a>
                 </div>
             </div>
         </div>
         <div class="space-100"></div>
     </div>
+    @push('scripts')
+        <script src="/js/main.js"></script>        
+    @endpush
 @endsection

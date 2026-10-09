@@ -10,7 +10,7 @@
     </div>
     <div class="content-body">
         <div class="content-space-between">
-            <div class="content-xy-center wd-45">
+            <div class="content-xy-center wd-45 mb-5-mob">
                 <div class="content-relative">
                     <div class="circle-blob circle-blob-content"></div>
                     <p class="subtitle">Casos de éxito</p>
@@ -25,7 +25,7 @@
                     </p>
                     <p class="tc-secondary">Esto es lo que hacemos mejor, área por área.</p>
                     <div class="mt-4">
-                        <a href="#" class="btn-contact-lg ho-dark">Contáctanos</a>
+                        <a rel="nofollow" href="https://wa.me/9981539626" target="_blank" class="btn-contact-lg ho-dark">Contáctanos</a>
                     </div>
                 </div>
             </div>
@@ -33,7 +33,7 @@
                 <div class="content-relative">
                     <img class="img-one-column" src="/assets/dos-personas.jpg" alt="Dos personas trabajando juntas en un proyecto de marketing" />
                     <div class="block-contact">
-                        <a href="" class="content-xy-center gap-10">
+                        <a rel="nofollow" href="https://wa.me/9981539626" target="_blank" class="content-xy-center gap-10">
                             <div class="box-phone">
                                 <img class="icon-phone" src="/assets/iconos/phone-white.png" alt="Contacto telefónico de It's Marketing para consultoria" />
                             </div>
@@ -54,11 +54,11 @@
                 En <span class="tc-main-color">It's Marketing</span> sabemos que una red social no es solo un espacio para publicar: es donde las marcas construyen relaciones. Por eso diseñamos y ejecutamos calendarios de contenido para redes sociales (Instagram, Facebook, TikTok y LinkedIn) pensados no solo para verse bien, sino para conectar de verdad. Nuestra experiencia incluye:
             </p>
         </div>
-        <div class="content-grid-three my-50">
+        <div class="content-grid-three my-50 mt-5-mob">
             <div class="card-dark-big">
                 <div>
-                    <div class="text-center mb-2">
-                        <i class="fa fa-diamond icon-yellow" aria-hidden="true"></i>
+                    <div class="content-center mb-2">
+                        <img class="icon-yellow" src="/assets/iconos/marketing-b2b-para-eventos-y-convenciones.png" alt="Marketing B2B para eventos y convenciones" />
                     </div>
                     <h3 class="tc-white text-center mb-2">Marketing B2B para eventos y convenciones</h3>
                     <p class="tc-secondary">
@@ -68,8 +68,8 @@
             </div>
             <div class="card-dark-big">
                 <div>
-                    <div class="text-center mb-2">
-                        <i class="fa fa-diamond icon-yellow" aria-hidden="true"></i>
+                    <div class="content-center mb-2">
+                        <img class="icon-yellow" src="/assets/iconos/marketing-hotelero-y-turistico.png" alt="Marketing hotelero y turístico" />
                     </div>
                     <h3 class="tc-white text-center mb-2">Marketing hotelero y turístico</h3>
                     <p class="tc-secondary">
@@ -79,8 +79,8 @@
             </div>
             <div class="card-dark-big">
                 <div>
-                    <div class="text-center mb-2">
-                        <i class="fa fa-diamond icon-yellow" aria-hidden="true"></i>
+                    <div class="content-center mb-2">
+                        <img class="icon-yellow" src="/assets/iconos/gestion-de-comunidades-para-medios-de-comunicacion.png" alt="Gestión de comunidades para medios de comunicación" />
                     </div>
                     <h3 class="tc-white text-center mb-2">Gestión de comunidades para medios de comunicación</h3>
                     <p class="tc-secondary">
@@ -89,11 +89,11 @@
                 </div>
             </div>            
         </div>
-        <div class="content-xy-center my-50">
+        <div class="content-xy-center mb-5-desk">
             <div class="card-dark-big">
                 <div>
-                    <div class="text-center mb-2">
-                        <i class="fa fa-diamond icon-yellow" aria-hidden="true"></i>
+                    <div class="content-center mb-2">
+                        <img class="icon-yellow" src="/assets/iconos/contenido-con-proposito-social.png" alt="Contenido con propósito social" />
                     </div>
                     <h3 class="tc-white text-center mb-2">Contenido con propósito social</h3>
                     <p class="tc-secondary">
@@ -109,10 +109,10 @@
         </div>
     </div>
 
-    <div class="space-100"></div>
+    <div class="space-100 d-none-mob"></div>
     <div class="space-100"></div>
 
-    <div class="d-flex mb-5 content-relative">
+    <div class="d-flex-desk mb-5 content-relative">
         <div class="background-about"></div>
         <div class="col-dark">
             <div class="content-relative">
@@ -144,8 +144,6 @@
         </div>
     </div>
 
-
-
     <div class="content-body">
         <div class="wd-80 mx-auto">
             <h2 class="subtitle text-center tc-dark-color">Posicionamiento SEO y marketing de contenidos que hablan el idioma de Google (y de la IA)</h2>
@@ -153,11 +151,11 @@
                 En <span class="tc-main-color">It's Marketing</span> entendemos que aparecer en los primeros resultados ya no es suficiente: hoy también hay que estar presentes en las respuestas que ofrecen los motores de búsqueda con inteligencia artificial. Por eso nuestro servicio de SEO integral incluye:
             </p>
         </div>
-        <div class="content-grid-three my-50">
+        <div class="content-grid-three my-50 mt-5-mob">
             <div class="card-dark-big">
                 <div>
                     <div class="content-center">
-                        <img src="/assets/iconos/integracion-total-del-contenido-seo.png" class="icon-card-small" alt="Icono de integración total de contenido SEO, redes sociales y pauta digital en estrategia 360">
+                        <img src="/assets/iconos/integracion-total-del-contenido-seo.png" class="icon-yellow" alt="Icono de integración total de contenido SEO, redes sociales y pauta digital en estrategia 360">
                     </div>
                     <h3 class="tc-white text-center mb-2">Integración total del contenido SEO </h3>
                     <p class="tc-secondary">
@@ -168,7 +166,7 @@
             <div class="card-dark-big">
                 <div>
                     <div class="content-center">
-                        <img src="/assets/iconos/landing-pages-con-estructura-seo.png" class="icon-card-small" alt="Icono de landing pages optimizadas con estructura SEO y motores de inteligencia artificial GEO">
+                        <img src="/assets/iconos/landing-pages-con-estructura-seo.png" class="icon-yellow" alt="Icono de landing pages optimizadas con estructura SEO y motores de inteligencia artificial GEO">
                     </div>
                     <h3 class="tc-white text-center mb-2">Landing pages con estructura SEO</h3>
                     <p class="tc-secondary">
@@ -179,7 +177,7 @@
             <div class="card-dark-big">
                 <div>
                     <div class="content-center">
-                        <img src="/assets/iconos/redaccion-de-articulos-blog.png" class="icon-card-small" alt="Icono de redacción de artículos de blog con estructura semántica y enfoque SEO e IA">
+                        <img src="/assets/iconos/redaccion-de-articulos-blog.png" class="icon-yellow" alt="Icono de redacción de artículos de blog con estructura semántica y enfoque SEO e IA">
                     </div>
                     <h3 class="tc-white text-center mb-2">Artículos de blog que refuerzan la palabra clave</h3>
                     <p class="tc-secondary">
@@ -193,7 +191,7 @@
             <div class="card-dark-big">
                 <div>
                     <div class="content-center">
-                        <img class="icon-card-small" src="/assets/iconos/planeacion-de-palabras-clave.png" alt="Icono de análisis mensual de palabras clave y estudio de mercado personalizado para SEO">
+                        <img class="icon-yellow" src="/assets/iconos/planeacion-de-palabras-clave.png" alt="Icono de análisis mensual de palabras clave y estudio de mercado personalizado para SEO">
                     </div>
                     <h3 class="tc-white text-center mb-2">Análisis mensual de palabras clave</h3>
                     <p class="tc-secondary">
@@ -215,20 +213,23 @@
                     <p class="tc-secondary mb-2">
                         Para las marcas que buscan una gestión integral, en It's Marketing ofrecemos un servicio de marketing digital 360° que combina redes sociales, SEO, publicidad paga y análisis de datos bajo una sola visión estratégica. Este modelo nos ha permitido acompañar a empresas B2B en sectores como equipos de oficina y tecnología, gestionando en paralelo:
                     </p>
-                    <p class="tc-secondary">
-                        <i class="fa fa-check tc-main-color" aria-hidden="true"></i>
+                    <!-- <ul class="custom-list">
+                        <li class="tc-secondary con check"</li>
+                    </ul> -->
+                    <p class="tc-secondary con-check">
+                        <!-- <i class="fa fa-check tc-main-color" aria-hidden="true"></i> -->
                         Contenido de redes sociales.
                     </p>
-                    <p class="tc-secondary">
-                        <i class="fa fa-check tc-main-color" aria-hidden="true"></i>
+                    <p class="tc-secondary con-check">
+                        <!-- <i class="fa fa-check tc-main-color" aria-hidden="true"></i> -->
                         Producción mensual de blog.
                     </p>
-                    <p class="tc-secondary">
-                        <i class="fa fa-check tc-main-color" aria-hidden="true"></i>
+                    <p class="tc-secondary con-check">
+                        <!-- <i class="fa fa-check tc-main-color" aria-hidden="true"></i> -->
                         Campañas en Google, Meta y LinkedIn Ads.
                     </p>
-                    <p class="tc-secondary">
-                        <i class="fa fa-check tc-main-color" aria-hidden="true"></i>
+                    <p class="tc-secondary con-check">
+                        <!-- <i class="fa fa-check tc-main-color" aria-hidden="true"></i> -->
                         Desarrollo continuo de landing pages para fortalecer el posicionamiento orgánico mes con mes.
                     </p>
 
@@ -252,7 +253,7 @@
         </div>
     </div>
 
-    <div class="space-100"></div>
+    <div class="space-100 d-none-mob"></div>
 
     <div class="content-next-body">
         <h2 class="subtitle text-center">¿Por qué las marcas eligen a It's Marketing?</h2>
@@ -315,7 +316,7 @@
                     ¿Listo para que tu marca sea la próxima historia que contemos? Hablemos.
                 </p>
                 <div class="mt-4 content-xy-center">
-                    <a href="#" class="btn-contact-lg ho-white">Obten Consultoria</a>
+                    <a rel="nofollow" href="https://wa.me/9981539626" target="_blank" class="btn-contact-lg ho-white">Obten Consultoria</a>
                 </div>
             </div>
         </div>

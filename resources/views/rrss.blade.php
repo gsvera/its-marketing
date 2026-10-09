@@ -19,8 +19,8 @@
                     El equipo creativo de It's Marketing diseña estrategias de redes sociales que fusionan conexión emocional con técnicas de venta digital, asegurando un retorno de inversión tangible para tu marca.
                 </p>
             </div>
-            <div class="content-xy-center col-2">
-                <button class="btn-contact" type="button">Contacto</button>
+            <div class="content-xy-center col-2 mt-40-mob">
+                <a rel="nofollow" href="https://wa.me/9981539626" target="_blank" class="btn-contact" type="button">Contacto</a>
             </div>
         </div>    
     </div>

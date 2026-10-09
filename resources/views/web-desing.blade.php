@@ -19,8 +19,8 @@
                     En It's Marketing creamos páginas web profesionales en Cancún y para empresas de todo México que buscan un proveedor confiable, comprometido con la calidad y los plazos de entrega.
                 </p>
             </div>
-            <div class="content-xy-center col-2">
-                <button class="btn-contact" type="button">Contacto</button>
+            <div class="content-xy-center col-2 mt-40-mob">
+                <a rel="nofollow" href="https://wa.me/9981539626" target="_blank" class="btn-contact" type="button">Contacto</a>
             </div>
         </div>    
     </div>

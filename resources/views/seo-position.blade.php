@@ -19,8 +19,8 @@
                     It's Marketing es una agencia SEO especializada en posicionamiento web en Cancún, Quintana Roo, con proyectos activos en toda la República Mexicana.
                 </p>
             </div>
-            <div class="content-xy-center col-2">
-                <button class="btn-contact" type="button">Contacto</button>
+            <div class="content-xy-center col-2 mt-40-mob">
+                <a rel="nofollow" href="https://wa.me/9981539626" target="_blank" class="btn-contact" type="button">Contacto</a>
             </div>
         </div>    
     </div>

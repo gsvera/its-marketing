@@ -14,16 +14,15 @@
                     <h1 class="title-banner">Agencia de Marketing Digital en México | It's Marketing</h1>
                     <p class="subtitle-banner">Impulsa la visibilidad de tu negocio en el entorno digital y lleva tu marca al siguiente nivel con el respaldo de It's Marketing, tu aliado estratégico en México.</p>
                     <div class="mt-4">
-                        <a href="#" class="btn-contact-lg ho-white">Contáctanos</a>
+                        <a rel="nofollow" href="https://wa.me/9981539626" target="_blank" class="btn-contact-lg ho-white">Contáctanos</a>
                     </div>
-    
                 </div>
             </div>
         </div>
     </div>
     <div class="content-body">
         <div class="content-space-between">
-            <div class="content-xy-center wd-45">
+            <div class="content-xy-center wd-45 mb-5-mob">
                 <div class="content-relative">
                     <div class="circle-blob circle-blob-content"></div>
                     <p class="tf-bold-600 mb-2">Acerca de <span class="tc-main-color">IT'S Marketing</span></p>
@@ -32,7 +31,7 @@
                         Contamos con un equipo especializado en marketing digital, gestión de redes sociales, posicionamiento SEO, diseño web profesional y publicidad digital de alto rendimiento. Todo lo que tu empresa necesita para crecer en internet, en un solo lugar.
                     </p>
                     <div class="mt-4">
-                        <a href="#" class="btn-contact-lg ho-dark">Contáctanos</a>
+                        <a rel="nofollow" href="https://wa.me/9981539626" target="_blank" class="btn-contact-lg ho-dark">Contáctanos</a>
                     </div>
                 </div>
             </div>
@@ -40,7 +39,7 @@
                 <div class="content-relative">
                     <img class="img-one-column" src="/assets/dos-personas.jpg" />
                     <div class="block-contact">
-                        <a href="" class="content-xy-center gap-10">
+                        <a rel="nofollow" href="https://wa.me/9981539626" target="_blank" class="content-xy-center gap-10">
                             <div class="box-phone">                            
                                 <img class="icon-phone" src="/assets/iconos/phone-white.png" alt="">
                             </div>
@@ -60,7 +59,7 @@
                 <div class="card-white">
                     <div class="aling-start">
                         <div class="card-badge-yellow">
-                            <i class="fa fa-certificate card-icon-white" aria-hidden="true"></i>
+                            <img class="icon-menu-mns" src="/assets/iconos/calidad-de-servicio-white.png" alt="Calidad de servicio en marketing digital" /> 
                         </div>
                     </div>
                     <div>
@@ -82,7 +81,7 @@
                 <div class="card-dark">
                     <div class="aling-start">
                         <div class="card-badge-yellow">
-                            <i class="fa fa-user-circle-o card-icon-white" aria-hidden="true"></i>
+                            <img class="icon-menu-mns" src="/assets/iconos/atencion-profesional-white.png" alt="Atencion profesional para servicios de marketing digital" />
                         </div>
                     </div>
                     <div>
@@ -94,33 +93,33 @@
 
         </div>
         <div class="content-space-aroud h-100">
-            <div>
+            <div class="box-count">
                 <div class="content-xy-center">
-                    <i class="fa fa-user-circle-o icon-count" aria-hidden="true"></i>
+                    <img class="icon-count" src="/assets/iconos/clientes-felices.png" alt="Clientes felices" />
                 </div>
-                <div class="number-count">120 <span class="symbol-count">+</span></div>
-                <div class="tc-secondary t-center">Clientes Felices</div>
+                <div class="number-count" data-target="120">0 <span class="symbol-count">+</span></div>
+                <div class="tc-secondary t-center p">Clientes Felices</div>
             </div>
-            <div>
+            <div class="box-count">
                 <div class="content-xy-center">
-                    <i class="fa fa-user-circle-o icon-count" aria-hidden="true"></i>
+                    <img class="icon-count" src="/assets/iconos/proyectos-completos.png" alt="Proyectos completos" />
                 </div>
-                <div class="number-count">350 <span class="symbol-count">+</span></div>
-                <div class="tc-secondary t-center">Proyectos Completos</div>
+                <div class="number-count" data-target="350">0 <span class="symbol-count">+</span></div>
+                <div class="tc-secondary t-center p">Proyectos Completos</div>
             </div>
-            <div>
+            <div class="box-count">
                 <div class="content-xy-center">
-                    <i class="fa fa-user-circle-o icon-count" aria-hidden="true"></i>
+                    <img class="icon-count" src="/assets/iconos/anios-de-experiencia.png" alt="Años de experiencia" />
                 </div>
-                <div class="number-count">14 <span class="symbol-count">+</span></div>
-                <div class="tc-secondary t-center">Años de experiencia</div>
+                <div class="number-count" data-target="14">0 <span class="symbol-count">+</span></div>
+                <div class="tc-secondary t-center p">Años de experiencia</div>
             </div>
-            <div>
+            <div class="box-count">
                 <div class="content-xy-center">
-                    <i class="fa fa-user-circle-o icon-count" aria-hidden="true"></i>
+                    <img class="icon-count" src="/assets/iconos/equipo-profesional.png" alt="Equipo profesional" />
                 </div>
-                <div class="number-count">12 <span class="symbol-count">+</span></div>
-                <div class="tc-secondary t-center">Equipo profesional</div>
+                <div class="number-count" data-target="12">0 <span class="symbol-count">+</span></div>
+                <div class="tc-secondary t-center p">Equipo profesional</div>
             </div>
         </div>
     </div>
@@ -136,54 +135,58 @@
                     Impulsamos la presencia digital de tu marca mediante estrategias integrales orientadas a la captación de prospectos y conversión de ventas.
                 </p>
             </div>
-            <div class="content-xy-center col-2">
-                <button class="btn-contact" type="button">Contacto</button>
+            <div class="content-btn-contanct-center col-2">
+                <a rel="nofollow" href="https://wa.me/9981539626" target="_blank" class="btn-contact" type="button">Contacto</a>
             </div>
         </div>
-        <div class="content-grid-three">
+        <div class="content-grid-three mt-xl-5">
             <div class="card-services">
-                <img class="icon-card" src="/assets/branding.png" alt="">
+                <img class="icon-card" src="/assets/iconos/marketing-digital.png" alt="Marketing digital y estrategias de posicionamiento web" />
                 <h3 class="title-card">Marketing Digital</h3>
                 <p class="tc-secondary mb-2">
                     Construimos comunidades sólidas y creamos contenido estratégico de alto impacto para conectar emocionalmente con tu audiencia.
                 </p>
-                <a class="link-card" href="/marketing-digital">Leer más</a>
+                <a class="link-card" href="/agencia-de-marketing-digital-cancun">Leer más</a>
             </div>
             <div class="card-services">
-                <img class="icon-card" src="/assets/branding.png" alt="">
+                <img class="icon-card" src="/assets/iconos/redes-sociales.png" alt="Redes Sociales y gestión de contenido para marcas" />
                 <h3 class="title-card">Redes Sociales</h3>
                 <p class="tc-secondary mb-2">
                     Construimos comunidades sólidas y creamos contenido estratégico de alto impacto para conectar emocionalmente con tu audiencia.
                 </p>
-                <a class="link-card" href="/redes-sociales">Leer más</a>
+                <a class="link-card" href="/agencia-de-redes-sociales-cancun">Leer más</a>
             </div>
             <div class="card-services">
-                <img class="icon-card" src="/assets/branding.png" alt="">
+                <img class="icon-card" src="/assets/iconos/publicidad-digital.png" alt="Publicidad Digital y campañas de marketing" />
                 <h3 class="title-card">Publicidad Digital</h3>
                 <p class="tc-secondary mb-2">
                     Diseñamos e implementamos campañas segmentadas de alto rendimiento para maximizar tu alcance e incrementar tu retorno de inversión.
                 </p>
-                <a class="link-card" href="/publicidad-digital">Leer más</a>
+                <a class="link-card" href="/agencia-de-publicidad-digital-cancun">Leer más</a>
             </div>
             <div class="card-services">
-                <img class="icon-card" src="/assets/branding.png" alt="">
+                <img class="icon-card" src="/assets/iconos/posicionamiento-seo.png" alt="Posicionamiento SEO y optimización de motores de búsqueda" />
                 <h3 class="title-card">Posicionamiento SEO</h3>
                 <p class="tc-secondary mb-2">
                     Optimizamos tu estructura web y contenidos para escalar posiciones orgánicas en los principales motores de búsqueda.
                 </p>
-                <a class="link-card" href="/posicionamiento-seo">Leer más</a>
+                <a class="link-card" href="/agencia-seo-posicionamiento-web-cancun">Leer más</a>
             </div>
             <div></div>
             <div class="card-services">
-                <img class="icon-card" src="/assets/branding.png" alt="">
+                <img class="icon-card" src="/assets/iconos/desarrollo-de-pagina.png" alt="Diseño y Desarrollo de Páginas Web">
                 <h3 class="title-card">Diseño y Desarrollo de Páginas Web</h3>
                 <p class="tc-secondary mb-2">
                     Desarrollamos sitios web funcionales, atractivos y optimizados para ofrecer la mejor experiencia de usuario e impulsar conversiones.
                 </p>
-                <a class="link-card" href="/diseño-y-desarrollo-de-paginas-web">Leer más</a>
+                <a class="link-card" href="/agencia-de-diseño-y-desarrollo-de-paginas-web-cancun">Leer más</a>
             </div>
         </div>
     </div>
 </div>
+
+@push('scripts')
+    <script src="/js/main.js"></script>        
+@endpush
 
 @endsection

@@ -19,8 +19,8 @@
                     It's Marketing es tu agencia de publicidad digital en Cancún con presencia en todo México. A través de campañas inteligentemente segmentadas, generamos visibilidad instantánea y captamos tráfico de alta calidad hacia tu negocio.
                 </p>
             </div>
-            <div class="content-xy-center col-2">
-                <button class="btn-contact" type="button">Contacto</button>
+            <div class="content-xy-center col-2 mt-40-mob">
+                <a rel="nofollow" href="https://wa.me/9981539626" target="_blank" class="btn-contact" type="button">Contacto</a>
             </div>
         </div>    
     </div>

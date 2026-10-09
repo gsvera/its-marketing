@@ -9,19 +9,19 @@ Route::get('/', function () {
 Route::get('/nosotros', function() {
     return view('about');
 });
-Route::get('/marketing-digital', function() {
+Route::get('/agencia-de-marketing-digital-cancun', function() {
     return view('digital-marketing');
 });
-Route::get('/redes-sociales', function() {
+Route::get('/agencia-de-redes-sociales-cancun', function() {
     return view('rrss');
 });
-Route::get('/publicidad-digital', function() {
+Route::get('/agencia-de-publicidad-digital-cancun', function() {
     return view('digital-advertising');
 });
-Route::get('/posicionamiento-seo', function() {
+Route::get('/agencia-seo-posicionamiento-web-cancun', function() {
     return view('seo-position');
 });
-Route::get('/diseño-y-desarrollo-de-paginas-web', function() {
+Route::get('/agencia-de-diseño-y-desarrollo-de-paginas-web-cancun', function() {
     return view('web-desing');
 });
 Route::get('/casos-de-exito', function() {

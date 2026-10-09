@@ -33,7 +33,7 @@
                 <div class="content-menu-items">
                     <div>
                         <a href="/">
-                            <img class="img-logo-menu" src="/assets/logo.png" alt="Logo de It's Marketing" />
+                            <img class="img-logo-menu" src="/assets/logo-its-marketing-beige.png" alt="Logo de It's Marketing" />
                         </a>
                     </div>
                     <a href="/" class="item-menu">Inicio</a>
@@ -41,19 +41,19 @@
                     <div class="item-menu services-submenu">Servicios
 
                         <div class="submenu">
-                            <a href="/marketing-digital">
+                            <a href="/agencia-de-marketing-digital-cancun">
                                 <div class="submenu-item">Marketing Digital</div>
                             </a>
-                            <a href="/redes-sociales">
+                            <a href="/agencia-de-redes-sociales-cancun">
                                 <div class="submenu-item">Redes Sociales</div>
                             </a>
-                            <a href="/publicidad-digital">
+                            <a href="/agencia-de-publicidad-digital-cancun">
                                 <div class="submenu-item">Publicidad Digital</div>
                             </a>
-                            <a href="/posicionamiento-seo">
+                            <a href="/agencia-seo-posicionamiento-web-cancun">
                                 <div class="submenu-item">Posicionamiento SEO</div>
                             </a>
-                            <a href="/diseño-y-desarrollo-de-paginas-web">
+                            <a href="/agencia-de-diseño-y-desarrollo-de-paginas-web-cancun">
                                 <div class="submenu-item">Diseño y Desarrollo de Páginas Web</div>
                             </a>
                         </div>
@@ -65,16 +65,61 @@
                     <div>
                         <img class="icon-menu-mns" src="/assets/iconos/consultoria.png" alt="Atencion a mensajes para obtener consultoria de marketing digital" />
                     </div>
-                    <div class="item-menu">
+                    <a class="item-menu" rel="nofollow" href="https://wa.me/9981539626" target="_blank">
                         Obten Consultoria
                         <br />
                         (+52) 998 153 9626
-                    </div>
+                    </a>
                     <div>
-                        <button class="btn-contact ho-white" type="button">Contacto</button>
+                        <a rel="nofollow" href="https://wa.me/9981539626" target="_blank" class="btn-contact ho-white" type="button">Contacto</a>
                     </div>
                 </div>
                 
+            </div>
+            <div class="menu-mobile">
+                <div>
+                    <a href="/">
+                        <img class="img-logo-menu" src="/assets/logo-its-marketing-beige.png" alt="Logo de It's Marketing" />
+                    </a>
+                </div>
+                <div>
+                    <div class="menu-btn" onclick="toggleMenu()">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </div>
+                    <div class="menu-mobile-items">
+                        <div>
+                            <a href="/">
+                                <img class="img-logo-menu mb-4" src="/assets/logo-its-marketing-vine.png" alt="Logo de It's Marketing" />
+                            </a>
+                        </div>
+                        <a href="/" class="item-menu-mob">Inicio</a>
+                        <a href="/nosotros" class="item-menu-mob">Nosotros</a>
+                        <div class="services-submenu item-menu-mob">Servicios
+    
+                            <div class="submenu">
+                                <a href="/agencia-de-marketing-digital-cancun">
+                                    <div class="submenu-item-mob">Marketing Digital</div>
+                                </a>
+                                <a href="/agencia-de-redes-sociales-cancun">
+                                    <div class="submenu-item-mob">Redes Sociales</div>
+                                </a>
+                                <a href="/agencia-de-publicidad-digital-cancun">
+                                    <div class="submenu-item-mob">Publicidad Digital</div>
+                                </a>
+                                <a href="/agencia-seo-posicionamiento-web-cancun">
+                                    <div class="submenu-item-mob">Posicionamiento SEO</div>
+                                </a>
+                                <a href="/agencia-de-diseño-y-desarrollo-de-paginas-web-cancun">
+                                    <div class="submenu-item-mob">Diseño y Desarrollo de Páginas Web</div>
+                                </a>
+                            </div>
+                        </div>
+                        <a href="/casos-de-exito" class="item-menu-mob">Casos de Éxito</a>
+                        <a href="#" class="item-menu-mob">Blog</a>
+                    </div>
+                </div>
             </div>
         </header>
         
@@ -84,21 +129,23 @@
         <!-- Footer Section -->
         <footer class="footer">
             <div class="footer-content">
-
                 <div>
-                    <img class="icon-footer" src="/assets/logo.png" alt="Logo de It's Marketing" />
+                    <img class="icon-footer" src="/assets/logo-its-marketing-beige.png" alt="Logo de It's Marketing" />
                     <p class="tc-secondary mt-40">
                         Transformamos la presencia digital de las marcas a través de estrategias creativas, análisis de datos y resultados medibles. Tu socio estratégico en marketing integral.
                     </p>
                     <div class="icons-ss-footer">
                         <span href="" class="btn-icon ho-white">
-                            <i class="fa fa-facebook icon" aria-hidden="true"></i>
+                            <!-- <i class="fa fa-facebook icon" aria-hidden="true"></i> -->
+                            <img class="icon-rrss" src="/assets/iconos/facebook.png" alt="Facebook" />
                         </span>
                         <span href="" class="btn-icon ho-white">
-                            <i class="fa fa-instagram icon" aria-hidden="true"></i>
+                            <!-- <i class="fa fa-instagram icon" aria-hidden="true"></i> -->
+                            <img class="icon-rrss" src="/assets/iconos/instagram.png" alt="Instagram" />
                         </span>
                         <span href="" class="btn-icon ho-white">
-                            <i class="fa fa-twitter icon" aria-hidden="true"></i>
+                            <!-- <i class="fa fa-twitter icon" aria-hidden="true"></i> -->
+                            <img class="icon-rrss" src="/assets/iconos/tiktok.png" alt="TikTok" />
                         </span>
                     </div>
                 </div>
@@ -106,19 +153,19 @@
                     <h3 class="subtitle-footer">Servicios de Marketing Digital</h3>
                     <div class="divisor-subtitle-footer"></div>
                     <div class="my-10">
-                        <a class="link-footer" href="/marketing-digital">Marketing Digital</a>
+                        <a class="link-footer" href="/agencia-de-marketing-digital-cancun">Marketing Digital</a>
                     </div>
                     <div class="my-10">
-                        <a class="link-footer" href="/redes-sociales">Redes Sociales</a>
+                        <a class="link-footer" href="/agencia-de-redes-sociales-cancun">Redes Sociales</a>
                     </div>
                     <div class="my-10">
-                        <a class="link-footer" href="/publicidad-digital">Publicidad Digital</a>
+                        <a class="link-footer" href="/agencia-de-publicidad-digital-cancun">Publicidad Digital</a>
                     </div>
                     <div class="my-10">
-                        <a class="link-footer" href="/posicionamiento-seo">Posicionamiento SEO</a>
+                        <a class="link-footer" href="/agencia-seo-posicionamiento-web-cancun">Posicionamiento SEO</a>
                     </div>
                     <div class="my-10">
-                        <a class="link-footer" href="/diseño-y-desarrollo-de-paginas-web">Diseño y Desarrollo de Páginas Web</a>
+                        <a class="link-footer" href="/agencia-de-diseño-y-desarrollo-de-paginas-web-cancun">Diseño y Desarrollo de Páginas Web</a>
                     </div>
                 </div>
                 <div>
@@ -128,7 +175,7 @@
                         <p class="tc-white my-10"><i class="fa fa-clock-o tc-main-btn" aria-hidden="true"></i> 9 AM - 7 PM, Lunes - Viernes</p>
                         <p class="tc-secondary my-20">Estamos listos para llevar tu marca al siguiente nivel. Contáctanos y agendemos una sesión estratégica.</p>
                         <div>
-                            <button class="btn-contact ho-white" type="button">Contacto</button>
+                            <a rel="nofollow" href="https://wa.me/9981539626" target="_blank" class="btn-contact ho-white" type="button">Contacto</a>
                         </div>
                     </div>
                 </div>
@@ -137,10 +184,11 @@
             <div class="divisor-footer">                
             </div>
             <div class="content-space-between">
-                <div class="tc-secondary">
-                    Hecho con <i class="fa fa-heart-o heart" aria-hidden="true"></i> en Cancún
+                <div class="tc-secondary t-center-mob-heart p">
+                    <!--  -->
+                    Hecho con <img class="icon-heart" src="/assets/corazon.png" alt="Con amor It's Marketing" /> en Cancún
                 </div>
-                <div class="tc-secondary">
+                <div class="tc-secondary t-center-mob p">
                     © {{$anioActual}} It's Marketing - Agencia de Marketing Digital | Todos los derechos reservados
                 </div>
             </div>
@@ -160,6 +208,14 @@
                 menu.classList.remove('menu-fixed');
             }
         });
+
+        function toggleMenu() {
+            const menuBtn = document.querySelector('.menu-btn');
+           const menu = document.querySelector('.menu-mobile-items');
+            menuBtn.classList.toggle('active');
+            menu.classList.toggle('active');
+        }
+        
         </script>
         @stack('scripts')        
     </body>
