@@ -12,6 +12,12 @@ Route::get('/', function () {
 Route::get('/nosotros', function() {
     return view('about');
 });
+Route::get('/aviso-de-privacidad', function() {
+    return view('privacy-policy');
+});
+Route::get('/uso-de-cookies', function() {
+    return view('cookies');
+});
 Route::get('/agencia-de-marketing-digital-cancun', function() {
     $title = "Agencia de Marketing Digital en Cancún – It's Marketing ®";
     $description = "Con 14 años de experiencia, hemos ayudado a empresa de Cancún a convertir seguidores en clientes ¡Conoce nuestra metodología!";

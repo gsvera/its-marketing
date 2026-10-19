@@ -66,7 +66,7 @@
                         </div>
                     </div>
                     <a href="/casos-de-exito-de-marketing-digital-cancun" class="item-menu">Casos de Éxito</a>
-                    <a href="#" class="item-menu">Blog</a>
+                    <a href="/blog" class="item-menu">Blog</a>
                 </div>
                 <div class="content-menu-items">
                     <div>
@@ -124,7 +124,7 @@
                             </div>
                         </div>
                         <a href="/casos-de-exito-de-marketing-digital-cancun" class="item-menu-mob">Casos de Éxito</a>
-                        <a href="#" class="item-menu-mob">Blog</a>
+                        <a href="/blog" class="item-menu-mob">Blog</a>
                     </div>
                 </div>
             </div>
@@ -176,6 +176,16 @@
                     </div>
                 </div>
                 <div>
+                    <h3 class="subtitle-footer">Enlaces útiles</h3>
+                    <div class="divisor-subtitle-footer"></div>
+                    <div class="my-10">
+                        <a class="link-footer" href="/aviso-de-privacidad">Aviso de Privacidad</a>
+                    </div>
+                    <div class="my-10">
+                        <a class="link-footer" href="/uso-de-cookies">Uso de cookies</a>
+                    </div>
+                </div>
+                <div>
                     <h3 class="subtitle-footer">Horario de trabajo</h3>
                     <div class="divisor-subtitle-footer"></div>
                     <div>
@@ -185,8 +195,7 @@
                             <a rel="nofollow" href="https://wa.me/9981539626" target="_blank" class="btn-contact ho-white" type="button">Contacto</a>
                         </div>
                     </div>
-                </div>
-                <div></div>
+                </div>                
             </div>
             <div class="divisor-footer">                
             </div>
@@ -199,6 +208,29 @@
                     © {{$anioActual}} It's Marketing - Agencia de Marketing Digital | Todos los derechos reservados
                 </div>
             </div>
+
+            <div>
+    <!-- Modal (Agregué 'hidden' por defecto para que no aparezca abierto) -->
+    <div id="modalShowAdvertisement" class="bg-alert-cookies hidden ">
+        
+        <!-- Contenedor interno del modal -->
+        <div class="relative w-full max-w-lg mx-4 rounded-2xl shadow-2xl overflow-hidden modal-transparent-shadow">                
+            
+            <!-- Cuerpo del modal -->
+            <div class="p-6 content-modal-body">
+                <div class="mx-auto tc-white">
+                    <!-- Nota: en Tailwind es mejor manejar visibilidad responsive con clases como 'block md:hidden' y 'hidden md:block' -->
+                    Usamos cookies propias y de terceros para que el sitio funcione correctamente, analizar el tráfico y, si lo aceptas, mostrarte publicidad personalizada. Puedes aceptarlas todas, rechazar las no esenciales o configurarlas. Más información en nuestra <a href="/uso-de-cookies">Política de Cookies</a>.
+                </div>
+                <div class="d-flex gap-10 mt-20">
+                    <button class="btn-contact ho-white" type="button" onclick="agreeAdvertisement()">Aceptar todas</button>
+                    <button class="btn-contact ho-white" type="button" onclick="agreeAdvertisement()">Rechazar no esenciales</button>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
         </footer>
         <!-- Footer Section -->
         <script type="text/javascript">
@@ -222,7 +254,18 @@
             menuBtn.classList.toggle('active');
             menu.classList.toggle('active');
         }
+
+        document.addEventListener('DOMContentLoaded', (event) => {
+            // Tu código se ejecutará justo cuando el DOM esté completamente cargado
+            var response = sessionStorage.getItem("agree-advertisement");
+            if(!response) document.getElementById('modalShowAdvertisement').classList.remove("hidden");
+        });
         
+        function agreeAdvertisement() {
+            sessionStorage.setItem('agree-advertisement', true);
+            document.getElementById("modalShowAdvertisement").classList.add("hidden");
+        }
+
         </script>
         @stack('scripts')        
     </body>
