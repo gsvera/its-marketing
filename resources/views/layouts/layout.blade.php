@@ -257,12 +257,12 @@
 
         document.addEventListener('DOMContentLoaded', (event) => {
             // Tu código se ejecutará justo cuando el DOM esté completamente cargado
-            var response = sessionStorage.getItem("agree-advertisement");
+            var response = localStorage.getItem("agree-advertisement");
             if(!response) document.getElementById('modalShowAdvertisement').classList.remove("hidden");
         });
         
         function agreeAdvertisement() {
-            sessionStorage.setItem('agree-advertisement', true);
+            localStorage.setItem('agree-advertisement', true);
             document.getElementById("modalShowAdvertisement").classList.add("hidden");
         }
 

@@ -100,13 +100,6 @@
                                 <td class="px-6 py-4">[Mide conversiones de campañas publicitarias]</td>
                                 <td class="px-6 py-4">[3 meses]</td>
                             </tr>
-                            <tr class="hover:bg-gray-50 transition-colors">
-                                <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap">[OTRA]</th>
-                                <td class="px-6 py-4">[PROVEEDOR]</td>
-                                <td class="px-6 py-4">[TIPO]</td>
-                                <td class="px-6 py-4">[FINALIDAD]</td>
-                                <td class="px-6 py-4">[DURACIÓN]</td>
-                            </tr>
                         </tbody>
                     </table>
                 </div>
